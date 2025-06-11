@@ -1,0 +1,186 @@
+body{
+    background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364, #3a6073);
+    );
+    );
+}
+*{
+    
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:750;
+        font-style: normal;
+      
+
+}
+.square{
+            height: 550px;
+            width: 800px;
+            position: relative;
+            left: 34rem;
+            top:10rem;
+            background-color: black;
+            border-radius: 5px;
+
+        }
+.reg{
+    position: relative;
+    left: 35px;
+    top: 20px;
+    color:#0d47a1;
+}
+.name{
+    position:relative;
+    left: 3rem;
+    top: 1rem;
+    color: #333333;
+}
+.n_b{
+    position: relative;
+    top:1rem;
+    left: 2.8rem;
+    height: 1.5rem;
+    width: 18rem;
+}
+.Username{
+    position: relative;
+    left: 25rem;
+    bottom: 5rem;
+    color: #333333;
+    
+    
+}
+.u_b{
+    position: relative;
+    bottom: 4.9rem;
+    left: 25rem;
+    height: 1.5rem;
+    width: 18rem;
+}
+
+.email{
+     position: relative;
+    left: 3rem;
+    bottom: 4rem;
+    color: #333333;
+}
+
+.e_b{
+    position: relative;
+    bottom: 4rem;
+    left: 2.8rem;
+    height: 1.5rem;
+    width: 18rem;
+}
+
+.p_number{
+   position: relative;
+    left: 25rem;
+    bottom: 9.9rem;
+    color: #333333;
+    
+}
+
+.p_n{
+     position: relative;
+    bottom: 9.8rem;
+    left: 25rem;
+    height: 1.5rem;
+    width: 18rem;
+}
+
+.password{
+      position: relative;
+    left: 3rem;
+    bottom: 9rem;
+    color: #333333;
+
+}
+
+.p_w{
+
+     position: relative;
+    bottom: 9rem;
+    left: 2.8rem;
+    height: 1.5rem;
+    width: 18rem;
+
+}
+
+.Confirm_password{
+    position: relative;
+    left: 25rem;
+    bottom: 14.5rem;
+    color: #333333;
+    
+}
+
+.c_p{
+       position: relative;
+    bottom: 14.9rem;
+    left: 25rem;
+    height: 1.5rem;
+    width: 18rem;
+}
+
+.gen{
+    position: relative;
+    bottom: 14rem;
+    left: 3rem;
+    color:#0d47a1;
+}
+
+.male{
+    position: relative;
+    bottom: 14rem;
+    left: 3rem;
+}
+
+.m{
+    position: relative;
+    bottom: 16.6rem;
+    left: 5rem;
+    color: white;
+}
+
+.female{
+    position: relative;
+    bottom: 19.1rem;
+    left: 15rem;
+}
+
+.f{
+    position: relative;
+    bottom: 21.8rem;
+    left: 17rem;
+    color: white;
+}
+
+.p{
+    position: relative;
+    bottom: 27rem;
+    left: 30rem;
+    color: white;
+}
+
+.pnts{
+    position: relative;
+    bottom: 24.3rem;
+    left: 28rem;
+    color: white;
+}
+
+.button{
+       position: relative;
+       bottom: 27rem;
+       height: 2.5rem;
+       width: 35rem;
+        left: 7rem;
+        background-color: #0d47a1;
+        color: #ffffff;
+        transition: all 0.8s ease-in-out;
+}
+
+.button:hover{
+    background-color: rgb(5, 139, 0);
+
+}
